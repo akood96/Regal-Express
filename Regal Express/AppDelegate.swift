@@ -5,7 +5,7 @@
 //  Created by akood on 5/3/19.
 //  Copyright © 2019 akood. All rights reserved.
 //
-
+import GoogleMobileAds
 import UIKit
 
 @UIApplicationMain
@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
         return true
     }
 
